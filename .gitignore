@@ -1,12 +1,28 @@
 /*.egg-info
 .cache/
 dist/
+
+Sandbox/
+*.py[cod]
+
 .idea
 __pycache__
 algoengine.iml
 
+rqalpha.system.log
+*.bcolz
+*.pk
+*.h5
+.vscode
+.idea
+*.c
+*.so
+*.pyc
+build/
+bundle/
+bundle
+persist/
+.coverage
+.tox
+rqalpha_test_coverage_report/
 
-
-Sandbox/
-
-*.py[cod]
