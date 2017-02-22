@@ -4,3 +4,9 @@ dist/
 .idea
 __pycache__
 algoengine.iml
+
+
+
+Sandbox/
+
+*.py[cod]
